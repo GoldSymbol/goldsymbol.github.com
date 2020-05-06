@@ -18,7 +18,7 @@ links.forEach(function(link) {
 
     // setInterval -> Se ejecuta muchas veces | setTimeout -> Se ejecuta una sola vez
     setTimeout(function() {
-      location.href = "/";
+      location.href = "/boletines";
     }, 600)
   })
 });
